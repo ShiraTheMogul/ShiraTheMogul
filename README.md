@@ -1,16 +1,16 @@
-## Hi there 👋
+## S'mae pawb!
 
-<!--
-**PlagueVonKarma/PlagueVonKarma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Welsh, Jewish, trans person who primarily makes ROM Hacks.
+- 🔭 I’m currently working on [PlagueVonKarma/jep-hack](https://github.com/PlagueVonKarma/jep-hack)
+- 🖥 I use Zilog80 Assembly, Python, and some PHP.
+- 💬 🏴󠁧󠁢󠁥󠁮󠁧󠁿I speak English, 󠁧󠁢󠁷󠁬󠁳🏴󠁧󠁢󠁷󠁬󠁳󠁿dwi'n siarad Cymraeg, 🇨🇳我也会说中文（简体字）
+- 📫 How to reach me: chippy2001@live.co.uk
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I have a cute red iguana named Dewi.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Past Projects
+- [PlagueVonKarma/kep-hack](https://github.com/PlagueVonKarma/kep-hack)
+- [PlagueVonKarma/gen1expansionpak](https://github.com/PlagueVonKarma/gen1expansionpack)
+- [ConnorBryan/smashcombos](https://github.com/ConnorBryan/smashcombos)
+- [RBY 2k20](https://github.com/rby2k20/rby2k20)
+- [Pokemon Showdown](https://pokemonshowdown.com/credits))
