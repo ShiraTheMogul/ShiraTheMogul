@@ -13,4 +13,4 @@ I'm a Welsh, Jewish, trans person who primarily makes ROM Hacks.
 - [PlagueVonKarma/gen1expansionpak](https://github.com/PlagueVonKarma/gen1expansionpack)
 - [ConnorBryan/smashcombos](https://github.com/ConnorBryan/smashcombos)
 - [RBY 2k20](https://github.com/rby2k20/rby2k20)
-- [Pokemon Showdown](https://pokemonshowdown.com/credits))
+- [Pokemon Showdown](https://pokemonshowdown.com/credits)
