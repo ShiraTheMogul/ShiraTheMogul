@@ -3,7 +3,7 @@
 I'm a Welsh, Jewish, trans person who primarily makes ROM Hacks.
 - 🔭 I’m currently working on [PlagueVonKarma/jep-hack](https://github.com/PlagueVonKarma/jep-hack)
 - 🖥 I use Zilog80 Assembly, Python, and some PHP.
-- 💬 🏴󠁧󠁢󠁥󠁮󠁧󠁿I speak English, 󠁧󠁢󠁷󠁬󠁳🏴󠁧󠁢󠁷󠁬󠁳󠁿dwi'n siarad Cymraeg, 🇨🇳我也会说中文（简体字）
+- 💬 󠁧󠁢󠁥󠁮I speak English, 󠁧󠁢󠁷󠁬󠁳󠁧󠁢󠁷󠁬󠁳dwi'n siarad Cymraeg, 我也会说中文（简体字）
 - 📫 How to reach me: chippy2001@live.co.uk
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I have a cute red iguana named Dewi.
