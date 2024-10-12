@@ -5,10 +5,11 @@ I'm a Welsh, Jewish, trans person who primarily makes ROM Hacks. I am currently 
 # Yr Nawr
 - 🔭 I’m currently working on [PlagueVonKarma/jep-hack](https://github.com/PlagueVonKarma/jep-hack)
 - 🖥 I use Zilog80 Assembly, Python, TypeScript, and some PHP.
-- 💬 󠁧󠁢󠁥󠁮I speak English, 󠁧󠁢󠁷󠁬󠁳󠁧󠁢󠁷󠁬󠁳dwi'n siarad Cymraeg, 我也会说中文（简体字）
+- 💬 󠁧󠁢󠁥󠁮I speak English, 󠁧󠁢󠁷󠁬󠁳󠁧󠁢󠁷󠁬󠁳dwi'n siarad Cymraeg, 我也会讲有点中文（普通话/简体字）
 - 📫 How to reach me: chippy2001@live.co.uk
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I have a cute red iguana named Dewi.
+- My work is published with [Free Software Movement](https://www.fsf.org/about/) ideals and principles in mind; please treat it as such! 
 
 # Y Dyfodol 
 - ®️ I'm looking to pick up R. 
