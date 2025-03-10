@@ -13,8 +13,6 @@ I'm a Welsh, Jewish, trans person who primarily makes ROM Hacks. I am currently 
 
 # Y Dyfodol 
 - ®️ I'm looking to pick up R. 
-- ✡️🇪🇸 I want to learn Yiddish and Spanish! 
-- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 Dwi eisiau cyfieithu Pokemon Goch & Glas i Gymraeg! 
 
 # Prosiectau'r Gorffennol
 - [PlagueVonKarma/kep-hack](https://github.com/PlagueVonKarma/kep-hack)
