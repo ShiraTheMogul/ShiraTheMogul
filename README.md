@@ -1,6 +1,6 @@
 ## S'mae pawb!
 
-I'm a Welsh, Jewish, trans person who primarily makes ROM Hacks. I am currently in the University of Essex studying Teaching English as a Foreign Language (TEFL). 
+I'm a Welsh, Jewish, trans person who primarily makes ROM Hacks, but has gotten into making linguistics-based projects more recently. I am currently in the University of Essex studying Teaching English as a Foreign Language (TEFL). 
 
 # Yr Nawr
 - 🔭 I’m currently working on [ShiraTheMogul/jep-hack](https://github.com/ShiraTheMogul/jep-hack)
@@ -14,6 +14,7 @@ I'm a Welsh, Jewish, trans person who primarily makes ROM Hacks. I am currently 
 - ®️ I'm looking to pick up R and C.
 
 # Prosiectau'r Gorffennol
-- [ShiraTheMogul/kep-hack](https://github.com/PlagueVonKarma/kep-hack)
-- [ShiraTheMogul/gen1expansionpak](https://github.com/PlagueVonKarma/gen1expansionpack)
+- [ShiraTheMogul/Futhorcettanere](https://github.com/ShiraTheMogul/kep-hack)
+- [ShiraTheMogul/kep-hack](https://github.com/ShiraTheMogul/kep-hack)
+- [ShiraTheMogul/gen1expansionpak](https://github.com/ShiraTheMogul/gen1expansionpack)
 - [ConnorBryan/smashcombos](https://github.com/ConnorBryan/smashcombos)
