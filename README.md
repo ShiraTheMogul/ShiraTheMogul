@@ -14,6 +14,7 @@ I'm a Welsh, Jewish, trans person who primarily makes ROM Hacks, but has gotten 
 - ®️ I'm looking to pick up R and C.
 
 # Prosiectau'r Gorffennol
+- [ShiraTheMogul/SanBaiQian-Coverage-Checker](https://github.com/ShiraTheMogul/SanBaiQian-Coverage-Checker)
 - [ShiraTheMogul/Futhorcettanere](https://github.com/ShiraTheMogul/kep-hack)
 - [ShiraTheMogul/kep-hack](https://github.com/ShiraTheMogul/kep-hack)
 - [ShiraTheMogul/gen1expansionpak](https://github.com/ShiraTheMogul/gen1expansionpack)
