@@ -3,7 +3,7 @@
 I'm a Welsh, Jewish, trans person who primarily makes ROM Hacks, but has gotten into making linguistics-based projects more recently. I am currently in the University of Essex studying Teaching English as a Foreign Language (TEFL). 
 
 # Yr Nawr
-- 🔭 I’m currently working on [ShiraTheMogul/fanyahanwen-corpus](https://github.com/ShiraTheMogul/fanyahanwen-corpus), [ShiraTheMogul/jep-hack](https://github.com/ShiraTheMogul/jep-hack) and [chredmon/25-REA-CMP_garo-speech-recognition](https://github.com/chredmon/25-REA-CMP_garo-speech-recognition)!
+- 🔭 I’m currently working on [ShiraTheMogul/fanyahanwen-corpus](https://github.com/ShiraTheMogul/fanyahanwen-corpus), [ShiraTheMogul/jep-hack](https://github.com/ShiraTheMogul/jep-hack), and [chredmon/25-REA-CMP_garo-speech-recognition](https://github.com/chredmon/25-REA-CMP_garo-speech-recognition)!
 - 🖥 I use Zilog80 Assembly, Python, TypeScript, and some PHP.
 - 💬 󠁧󠁢󠁥󠁮I speak English, 󠁧󠁢󠁷󠁬󠁳󠁧󠁢󠁷󠁬󠁳dwi'n siarad Cymraeg, 我也会讲有点中文（普通话/简体字）
 - 😄 Pronouns: She/Her
