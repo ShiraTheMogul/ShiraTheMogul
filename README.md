@@ -4,14 +4,14 @@ I'm a Welsh, Jewish, trans person who primarily makes ROM Hacks, but has gotten 
 
 # Yr Nawr
 - 🔭 I’m currently working on [ShiraTheMogul/fanyahanwen-corpus](https://github.com/ShiraTheMogul/fanyahanwen-corpus), [ShiraTheMogul/jep-hack](https://github.com/ShiraTheMogul/jep-hack), and [chredmon/25-REA-CMP_garo-speech-recognition](https://github.com/chredmon/25-REA-CMP_garo-speech-recognition)!
-- 🖥 I use Zilog80 Assembly, Python, TypeScript, and some PHP.
+- 🖥 I use Zilog80 Assembly, Python, R, TypeScript, and some PHP.
 - 💬 󠁧󠁢󠁥󠁮I speak English, 󠁧󠁢󠁷󠁬󠁳󠁧󠁢󠁷󠁬󠁳dwi'n siarad Cymraeg, 我也会讲有点中文（普通话/简体字）
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I have a cute red iguana named Dewi.
 - My work is published with [Free Software Movement](https://www.fsf.org/about/) ideals and principles in mind; please treat it as such! 
 
 # Y Dyfodol 
-- ®️ I'm looking to pick up R and C.
+- ®️ I'm looking to pick C.
 
 # Prosiectau'r Gorffennol
 - [ShiraTheMogul/SanBaiQian-Coverage-Checker](https://github.com/ShiraTheMogul/SanBaiQian-Coverage-Checker), a grading tool for a given Literary Chinese text based on the vocabulary in Hundred Character Classic, Hundred Family Surnames, and Thousand Character Classic.
