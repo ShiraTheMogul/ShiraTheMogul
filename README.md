@@ -5,7 +5,7 @@ I'm a Welsh, Jewish, trans person who primarily makes ROM Hacks, but has gotten 
 # Yr Nawr
 - 🔭 I’m currently working on [ShiraTheMogul/fanyahanwen-corpus](https://github.com/ShiraTheMogul/fanyahanwen-corpus), [ShiraTheMogul/jep-hack](https://github.com/ShiraTheMogul/jep-hack), and [chredmon/25-REA-CMP_garo-speech-recognition](https://github.com/chredmon/25-REA-CMP_garo-speech-recognition)!
 - 🖥 I use Zilog80 Assembly, Python, R, TypeScript, and some PHP.
-- 💬 󠁧󠁢󠁥󠁮I speak English, 󠁧󠁢󠁷󠁬󠁳󠁧󠁢󠁷󠁬󠁳dwi'n siarad Cymraeg, 我也会讲有点中文（普通话/简体字）
+- 💬 󠁧󠁢󠁥󠁮I speak English, 󠁧󠁢󠁷󠁬󠁳󠁧󠁢󠁷󠁬󠁳dwi'n siarad Cymraeg, 我也会讲有点中文（普通话/简体字，叫我汐洛思吧）
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I have a cute red iguana named Dewi.
 - My work is published with [Free Software Movement](https://www.fsf.org/about/) ideals and principles in mind; please treat it as such! 
