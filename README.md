@@ -19,5 +19,6 @@ I'm a Welsh, Jewish, trans person who primarily makes ROM Hacks, but has gotten 
 - [ShiraTheMogul/SanBaiQian-Coverage-Checker](https://github.com/ShiraTheMogul/SanBaiQian-Coverage-Checker), a grading tool for a given Literary Chinese text based on the vocabulary in Hundred Character Classic, Hundred Family Surnames, and Thousand Character Classic.
 - [ShiraTheMogul/Futhorcettanere](https://github.com/ShiraTheMogul/Futhorcettanere), a tool for converting modern English writing into a phonetic Anglo-Saxon Futhorc script.
 - [ShiraTheMogul/kep-hack](https://github.com/ShiraTheMogul/kep-hack), a ROM Hack of *Pokemon Red and Blue* adding Pokemon from later generations and features to speed the game up.
+- [ShiraTheMogul/deltarune_wingdings_mod](https://github.com/ShiraTheMogul/deltarune_wingdings_mod), a mod for DELTARUNE that changes all Latin fonts into Wingdings. 
 - [ShiraTheMogul/gen1expansionpak](https://github.com/ShiraTheMogul/gen1expansionpack), a *Pokemon Showdown* mod adding Pokemon from later generations.
 - [ConnorBryan/smashcombos](https://github.com/ConnorBryan/smashcombos), a website containing combos for *Super Smash Bros. Ultimate*
