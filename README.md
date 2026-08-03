@@ -1,6 +1,6 @@
 ## S'mae pawb!
 
-I'm a Welsh, Jewish, trans person who primarily makes ROM Hacks, but has gotten into making linguistics-based projects more recently. I am currently in the University of Essex studying Teaching English as a Foreign Language (TEFL). 
+I'm a Welsh, Jewish, trans person who primarily makes ROM Hacks, but has gotten into making linguistics-based projects more recently. I am studied Teaching English as a Foreign Language (TEFL) in the University of Essex. 
 
 # Yr Nawr
 - 🔭 I’m currently working on [ShiraTheMogul/fanyahanwen-corpus](https://github.com/ShiraTheMogul/fanyahanwen-corpus) and [ShiraTheMogul/jep-hack](https://github.com/ShiraTheMogul/jep-hack)!
