@@ -14,7 +14,7 @@ I'm a Welsh, Jewish, trans person who primarily makes ROM Hacks, but has gotten 
 - ®️ I'm looking to learn C!
 
 # Prosiectau'r Gorffennol
-- [MementoMartha/jep-hack](https://github.com/ShiraTheMogul/jep-hack), an ongoing project which I've stepped back from.
+- [MementoMartha/jep-hack](https://github.com/MementoMartha/jep-hack), an ongoing project which I've stepped back from.
 - [ShiraTheMogul/Shanghainese-Anki-Builder](https://github.com/ShiraTheMogul/Shanghainese-Anki-Builder), a Python script for building a draft Anki deck with [Shanghainese TTS](https://huggingface.co/spaces/CjangCjengh/Shanghainese-TTS/tree/main) and [Wugniu Yaqdaon](https://www.wugniu.com/) romanisation. 
 - [chredmon/25-REA-CMP_garo-speech-recognition](https://github.com/chredmon/25-REA-CMP_garo-speech-recognition), a speech recognition system for Garo using AI training. 
 - [ShiraTheMogul/SanBaiQian-Coverage-Checker](https://github.com/ShiraTheMogul/SanBaiQian-Coverage-Checker), a grading tool for a given Literary Chinese text based on the vocabulary in Hundred Character Classic, Hundred Family Surnames, and Thousand Character Classic.
